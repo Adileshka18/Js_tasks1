@@ -1,1 +1,1 @@
-# JavaScript
+# Репозиторий для выполненных заданий из Code.mu  по JavaScript
